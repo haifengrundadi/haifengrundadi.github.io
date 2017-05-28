@@ -1,2 +1,6 @@
-# haifengrundadi.github.io
-My blogs
+# 海风润大地的博客
+
+## 记录一些生活的感悟
+
+## 记录一些技术
+
